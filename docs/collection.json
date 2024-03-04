@@ -1,0 +1,17 @@
+--http://localhost:8080/proposal
+{
+   "id":1,
+   "nome":"aaaaa B",
+   "cpf":"000000000-22",
+   "proposalId":"100011",
+   "quotationId":"100",
+   "proposalDate":"2024-03-03",
+   "productId":"355",
+   "nationality":"BRL",
+   "city":"SP",
+   "zipCode":"05754001",
+   "address":"Rua do nada",
+   "addressNumber":"102",
+   "cellPhone":"11999887766",
+   "email":"email@email.com"
+}	
