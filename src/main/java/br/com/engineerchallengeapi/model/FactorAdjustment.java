@@ -1,0 +1,117 @@
+package br.com.engineerchallengeapi.model;
+
+import java.math.BigDecimal;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class FactorAdjustment {
+	
+	private BigDecimal fatorCodCob0001;
+	private BigDecimal fatorCodCob0003;
+	private BigDecimal fatorCodCob0004;
+	private BigDecimal fatorCodCob0005;
+	private BigDecimal fatorCodCob0006;
+	private BigDecimal fatorCodCob0007;
+	private BigDecimal fatorCodCob0008;
+	private BigDecimal fatorCodCob0009;
+	private BigDecimal fatorCodCob0010;
+	private BigDecimal fatorCodCob0013;
+	private BigDecimal fatorCodCob0014;
+	private BigDecimal fatorCodCob0015;
+	private BigDecimal fatorCodCob0016;
+	private BigDecimal fatorCodCob0018;
+	private BigDecimal fatorCodCob0019;
+	private BigDecimal fatorCodCob0020;
+	private BigDecimal fatorCodCob0021;
+	private BigDecimal fatorCodCob0022;
+	private BigDecimal fatorCodCob0024;
+	private BigDecimal fatorCodCob0025;
+	private BigDecimal fatorCodCob0026;
+	private BigDecimal fatorCodCob0030;
+	private BigDecimal fatorCodCob0031;
+	private BigDecimal fatorCodCob0032;
+	private BigDecimal fatorCodCob0044;
+	private BigDecimal fatorCodCob0045;
+	private BigDecimal fatorCodCob0046;
+	private BigDecimal fatorCodCob0052;
+	private BigDecimal fatorCodCob0063;
+	private BigDecimal fatorCodCob0075;
+	private BigDecimal fatorCodCob0076;
+	private BigDecimal fatorCodCob0082;
+	private BigDecimal fatorCodCob0300;
+	private BigDecimal fatorCodCob0301;
+	private BigDecimal fatorCodCob0302;
+	private BigDecimal fatorCodCob0304;
+	private BigDecimal fatorCodCob0306;
+	private BigDecimal fatorCodCob0309;
+	private BigDecimal fatorCodCob0310;
+	private BigDecimal fatorCodCob0999;
+	private BigDecimal fatorCodCob1009;
+	private BigDecimal fatorCodCob1036;
+	private BigDecimal fatorCodCob1037;
+	private BigDecimal fatorCodCob1038;
+	private BigDecimal fatorCodCob1046;
+	private BigDecimal fatorCodCob1048;
+	private BigDecimal fatorCodCob1049;
+	private BigDecimal fatorCodCob1050;
+	private BigDecimal fatorCodCob1051;
+	private BigDecimal fatorCodCob1057;
+	private BigDecimal fatorCodCob1063;
+	private BigDecimal fatorCodCob1064;
+	private BigDecimal fatorCodCob1065;
+	private BigDecimal fatorCodCob1067;
+	private BigDecimal fatorCodCob1068;
+	private BigDecimal fatorCodCob1070;
+	private BigDecimal fatorCodCob1074;
+	private BigDecimal fatorCodCob1076;
+	private BigDecimal fatorCodCob1079;
+	private BigDecimal fatorCodCob1080;
+	private BigDecimal fatorCodCob1081;
+	private BigDecimal fatorCodCob1082;
+	private BigDecimal fatorCodCob1083;
+	private BigDecimal fatorCodCob1084;
+	private BigDecimal fatorCodCob1085;
+	private BigDecimal fatorCodCob1400;
+	private BigDecimal fatorCodCob0501;
+	private BigDecimal fatorCodCob0502;
+	private BigDecimal fatorCodCob0503;
+	private BigDecimal fatorCodCob0504;
+	private BigDecimal fatorCodCob0505;
+	private BigDecimal fatorCodCob0506;
+	private BigDecimal fatorCodCob0507;
+	private BigDecimal fatorCodCob0508;
+	private BigDecimal fatorCodCob0509;
+	private BigDecimal fatorCodCob0510;
+	private BigDecimal fatorCodCob0511;
+	private BigDecimal fatorCodCob0512;
+	private BigDecimal fatorCodCob0513;
+	private BigDecimal fatorCodCob0514;
+	private BigDecimal fatorCodCob0515;
+	private BigDecimal fatorCodCob0516;
+	private BigDecimal fatorCodCob0520;
+	private BigDecimal fatorCodCob0521;
+	private BigDecimal fatorCodCob0522;
+	private BigDecimal fatorCodCob0523;
+	private BigDecimal fatorCodCob0524;
+	private BigDecimal fatorCodCob0525;
+	private BigDecimal fatorCodCob0526;
+	private BigDecimal fatorCodCob0527;
+	private BigDecimal fatorCodCob0528;
+	private BigDecimal fatorCodCob0529;
+	private BigDecimal fatorCodCob0530;
+	private BigDecimal fatorCodCob0531;
+	private BigDecimal fatorCodCob0532;
+	private BigDecimal fatorCodCob0533;
+	private BigDecimal fatorCodCob0534;
+	private BigDecimal fatorCodCob0535;
+	private BigDecimal fatorCodCob0536;
+	private BigDecimal fatorCodCob0537;
+	private BigDecimal fatorCodCob0538;
+	private BigDecimal fatorOutras;
+
+}
